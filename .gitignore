@@ -1,0 +1,21 @@
+# Ignore datasets
+**/data/
+**/dataset/
+**/datasets/
+
+# Ignore outputs
+**/outputs/
+
+# Ignore Python cache
+**/__pycache__/
+*.pyc
+
+# Ignore virtual environments
+**/venv/
+**/env/
+
+# Ignore Jupyter
+**/.ipynb_checkpoints/
+
+# Ignore zip files
+*.zip

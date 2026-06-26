@@ -1,0 +1,11 @@
+paths:
+  data_dir: "dataset/"
+  output_dir: "outputs/"
+params:
+  roi_size: 64
+  stride: 32
+  qubits: 13 # 12 for 4096 states, 1 for ancilla
+  grover_iterations: 1
+  noise_level: 0.01
+  threshold_percentile: 98
+  seed: 42
