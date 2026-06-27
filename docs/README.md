@@ -35,3 +35,36 @@ Built using Python, Qiskit, OpenCV, and scientific computing libraries, HQC-Visi
 | **Visualization** | Matplotlib |
 | **Image Processing** | OpenCV, NumPy |
 | **Configuration** | YAML |
+
+## 📂 Repository Structure
+
+```text
+HQC-Vision
+│
+├── Blade Crack Detection/
+│   ├── src/                  # Blade crack detection modules
+│   ├── outputs/              # Detection results
+│   ├── requirements.txt
+│   ├── config.py
+│   └── main.py
+│
+├── Hyperspectral Change Detection/
+│   ├── modules/              # Quantum processing modules
+│   ├── outputs/              # Generated change maps
+│   ├── requirements.txt
+│   ├── config.py
+│   └── main.py
+│
+├── Microcalcification Detection/
+│   ├── src/                  # Medical image processing modules
+│   ├── outputs/              # Detection outputs
+│   ├── dataset/              # Sample dataset structure
+│   ├── requirements.txt
+│   ├── config.yaml
+│   └── main.py
+│
+├── docs/                     # Documentation
+├── images/                   # Figures and screenshots
+├── README.md
+└── .gitignore
+```
