@@ -22,3 +22,16 @@ Built using Python, Qiskit, OpenCV, and scientific computing libraries, HQC-Visi
 - 🖼️ Image preprocessing and feature extraction pipeline
 - 📊 Visualization and post-processing of detection results
 - 📦 Modular architecture for extending to new vision applications
+
+## 🛠 Technology Stack
+
+| Category | Technologies |
+|----------|--------------|
+| **Programming Language** | Python 3.x |
+| **Quantum Computing** | Qiskit |
+| **Computer Vision** | OpenCV |
+| **Scientific Computing** | NumPy, SciPy |
+| **Machine Learning** | Scikit-learn |
+| **Visualization** | Matplotlib |
+| **Image Processing** | OpenCV, NumPy |
+| **Configuration** | YAML |
