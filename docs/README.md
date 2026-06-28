@@ -53,30 +53,31 @@ Each application passes through:
 7. Post Processing
 8. Visualization & Detection Results
 
-## ✨ Key Features
+---
 
-- 🧠 Unified Hybrid Quantum Computing framework for computer vision applications
-- ⚛️ Integration of Grover's Algorithm using Qiskit
-- 🔧 Blade Crack Detection for industrial inspection
-- 🩺 Breast Microcalcification Detection for medical imaging
-- 🛰️ Hyperspectral Change Detection for remote sensing
-- 🖼️ Image preprocessing and feature extraction pipeline
-- 📊 Visualization and post-processing of detection results
-- 📦 Modular architecture for extending to new vision applications
+# ✨ Key Features
 
-## 🛠 Technology Stack
+- Modular Architecture
+- Hybrid Classical + Quantum Pipeline
+- Grover Search based Image Analysis
+- Qiskit Integration
+- OpenCV Image Processing
+- Medical Imaging Support
+- Industrial Inspection
+- Hyperspectral Remote Sensing
+- Research Friendly Code Structure
+---
 
-| Category | Technologies |
-|----------|--------------|
-| **Programming Language** | Python 3.x |
-| **Quantum Computing** | Qiskit |
-| **Computer Vision** | OpenCV |
-| **Scientific Computing** | NumPy, SciPy |
-| **Machine Learning** | Scikit-learn |
-| **Visualization** | Matplotlib |
-| **Image Processing** | OpenCV, NumPy |
-| **Configuration** | YAML |
+# 🛠️ Technologies
 
+| Category | Technology |
+|-----------|------------|
+| Language | Python |
+| Quantum | Qiskit |
+| Vision | OpenCV |
+| Numerical | NumPy |
+| Visualization | Matplotlib |
+| Configuration | YAML |
 ## 🏗️ Framework Architecture
 
 <p align="center">
