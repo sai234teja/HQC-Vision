@@ -1,6 +1,29 @@
 # 🧠 HQC-Vision
 
-### Hybrid Quantum Computing Vision Framework for Industrial Inspection, Medical Imaging, and Hyperspectral Remote Sensing
+> Hybrid Quantum Computing Vision Framework for Industrial Inspection, Medical Imaging, and Hyperspectral Remote Sensing
+
+<p align="center">
+
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![OpenCV](https://img.shields.io/badge/OpenCV-ComputerVision-green)
+![Qiskit](https://img.shields.io/badge/Qiskit-Quantum-purple)
+![License](https://img.shields.io/badge/License-MIT-orange)
+
+</p>
+
+---
+
+## 📖 Abstract
+
+HQC-Vision is a modular Hybrid Quantum Computing framework integrating classical Computer Vision with Quantum Search algorithms to solve image analysis problems efficiently.
+
+The framework demonstrates how Grover's Algorithm can be incorporated into Computer Vision pipelines for three different real-world applications:
+
+- 🔧 Industrial Blade Crack Detection
+- 🩺 Medical Microcalcification Detection
+- 🛰️ Hyperspectral Change Detection
+
+The framework is designed to be modular, scalable, and adaptable to future quantum hardware.
 
 ## 📖 Abstract
 
