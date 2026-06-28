@@ -78,16 +78,6 @@ Each application passes through:
 | Numerical | NumPy |
 | Visualization | Matplotlib |
 | Configuration | YAML |
-## 🏗️ Framework Architecture
-
-<p align="center">
-  <img src="../images/HQC_Vision_Architecture.drawio.png"
-       alt="HQC-Vision Architecture"
-       width="900"/>
-</p>
-
-The HQC-Vision framework integrates three computer vision applications into a unified Hybrid Quantum Computing pipeline. The workflow begins with Image Preprocessing, followed by Feature Extraction, Quantum Feature Encoding, Grover Search Algorithm, Quantum Measurement, Error Mitigation, Post Processing, and finally Visualization & Detection Results.
-
 
 ## 📂 Repository Structure
 
@@ -121,3 +111,14 @@ HQC-Vision
 ├── README.md
 └── .gitignore
 ```
+
+---
+
+# 🚀 Future Work
+
+- Quantum Convolutional Neural Networks
+- Quantum Machine Learning Models
+- Variational Quantum Circuits
+- IBM Quantum Hardware Deployment
+- Noise Adaptive Quantum Pipelines
+- Multi-modal Medical Image Analysis
