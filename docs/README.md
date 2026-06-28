@@ -122,3 +122,10 @@ HQC-Vision
 - IBM Quantum Hardware Deployment
 - Noise Adaptive Quantum Pipelines
 - Multi-modal Medical Image Analysis
+
+- ---
+
+# 📚 Citation
+
+If you use this repository for research or academic purposes, please cite the project appropriately.
+
