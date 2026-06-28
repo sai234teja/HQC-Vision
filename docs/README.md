@@ -36,6 +36,17 @@ Built using Python, Qiskit, OpenCV, and scientific computing libraries, HQC-Visi
 | **Image Processing** | OpenCV, NumPy |
 | **Configuration** | YAML |
 
+## 🏗️ Framework Architecture
+
+<p align="center">
+  <img src="../images/HQC_Vision_Architecture.drawio.png"
+       alt="HQC-Vision Architecture"
+       width="900"/>
+</p>
+
+The HQC-Vision framework integrates three computer vision applications into a unified Hybrid Quantum Computing pipeline. The workflow begins with Image Preprocessing, followed by Feature Extraction, Quantum Feature Encoding, Grover Search Algorithm, Quantum Measurement, Error Mitigation, Post Processing, and finally Visualization & Detection Results.
+
+
 ## 📂 Repository Structure
 
 ```text
