@@ -129,3 +129,8 @@ HQC-Vision
 
 If you use this repository for research or academic purposes, please cite the project appropriately.
 
+---
+
+# 📄 License
+
+This project is released under the MIT License.
