@@ -24,6 +24,34 @@ The framework demonstrates how Grover's Algorithm can be incorporated into Compu
 - 🛰️ Hyperspectral Change Detection
 
 The framework is designed to be modular, scalable, and adaptable to future quantum hardware.
+---
+
+# 🏗️ Framework Architecture
+
+<p align="center">
+
+<img src="../images/HQC_Vision_Architecture.drawio.png" width="900"/>
+
+</p>
+
+The HQC-Vision Framework follows a unified processing pipeline.
+
+Three different application domains share the same Hybrid Quantum Computing workflow:
+
+- Blade Crack Detection
+- Microcalcification Detection
+- Hyperspectral Change Detection
+
+Each application passes through:
+
+1. Image Preprocessing
+2. Feature Extraction
+3. Quantum Feature Encoding
+4. Grover Search Algorithm
+5. Quantum Measurement
+6. Error Mitigation
+7. Post Processing
+8. Visualization & Detection Results
 
 ## ✨ Key Features
 
